@@ -1,7 +1,7 @@
 class ProductManager {
   constructor() {
     this.products = [];
-    /**Para lógica de contador y no repetición de code */
+    /**Para lógica de contador*/
     this.productIdCounter = 1;
   }
 
